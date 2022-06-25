@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Home from './components/Home';
+import AddEditUser from './components/AddEditUser';
 
 function App() {
   return (
     <div className="App">
-    <h1>hello worldgfgfddhhd</h1>
+    <Home/>
+    <AddEditUser/>
     </div>
   );
 }

@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Jai Prakash",
+            "email": "jai@gmail.com",
+            "contact": 7989898978,
+            "ocupation": " Web Developer",
+            "gender": "mail",
+            "addres": "Jaipur"
+        },
+        {
+            "id": 2,
+            "name": "Prakash",
+            "email": "jp@gmail.com",
+            "contact": 7980098978,
+            "ocupation": " React Developer",
+            "gender": "male",
+            "addres": "Jpr"
+        },
+        {
+            "id": 3,
+            "name": "Meenu",
+            "email": "meenu@gmail.com",
+            "contact": 7989811178,
+            "ocupation": "Manager",
+            "gender": "female",
+            "addres": "Tilak Nagar"
+        },
+        {
+            "id": 4,
+            "name": "Mohit",
+            "email": "mohit@gmail.com",
+            "contact": 7980008978,
+            "ocupation": " React native Developer",
+            "gender": "mail",
+            "addres": "Jaipur"
+        },
+        {
+            "id": 5,
+            "name": "Harsh",
+            "email": "harsh@gmail.com",
+            "contact": 1011108978,
+            "ocupation": "Full stack Developer",
+            "gender": "mail",
+            "addres": "Jaipur"
+        }
+    ]
+}
